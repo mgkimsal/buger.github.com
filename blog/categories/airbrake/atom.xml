@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Leonid Bugaev]]></title>
-  <link href="http://leonsbox.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: airbrake | Leonid Bugaev]]></title>
+  <link href="http://leonsbox.com/blog/categories/airbrake/atom.xml" rel="self"/>
   <link href="http://leonsbox.com/"/>
   <updated>2012-11-20T15:12:18+04:00</updated>
   <id>http://leonsbox.com/</id>
@@ -18,12 +18,11 @@
     <link href="http://leonsbox.com/blog/2012/11/20/open-letter-to-airbrake-dot-io/"/>
     <updated>2012-11-20T13:26:00+04:00</updated>
     <id>http://leonsbox.com/blog/2012/11/20/open-letter-to-airbrake-dot-io</id>
-    <content type="html"><![CDATA[<blockquote><p>TL;DR</p><p>If you provide solution for such critical development parts as error tracking, you should work all the time.</p></blockquote>
-
+    <content type="html"><![CDATA[<p><blockquote><p>TL;DR</p></p><p><p>If you provide solution for such critical development parts as error tracking, you should work all the time.</p></blockquote></p>
 
 <p>Imagine that your site is down, you get lot of error, your business loses money. What can make you more angry? Oh, i say: when debug tool you rely on says that you reach limit of errors per minute, and just shows nothing, except this message. When you have multiple servers with multiple apps, digging through logs for errors without tool above becomes real pain.</p>
 
-<p>Our load only about 30r/s, let&#8217;s imagine that something bad happened and  20 of this requests throwing errors. It will immediately reach your limits even on most expensive plan ( 1200 errors/minute - $999), so <strong>upgrading account will not help</strong>. And when you reach this limit, even if you fixed it in 15 minutes, you will get paralyzed for full day. I really want to give you my money, just give me reason.</p>
+<p>Our load only about 30r/s, let's imagine that something bad happened and  20 of this requests throwing errors. It will immediately reach your limits even on most expensive plan ( 1200 errors/minute - $999), so <strong>upgrading account will not help</strong>. And when you reach this limit, even if you fixed it in 15 minutes, you will get paralyzed for full day. I really want to give you my money, just give me reason.</p>
 
 <h3>Suggestion for Airbrake team:</h3>
 
@@ -33,7 +32,7 @@
 </ul>
 
 
-<p>It&#8217;s a great product, i can see amazing insights, and it helps a lot during development. But it just did&#8217;t work when it is most needed.</p>
+<p>It's a great product, i can see amazing insights, and it helps a lot during development. But it just did't work when it is most needed.</p>
 
 <p><strong>When shit happens we loosing more value than you provide.</strong></p>
 

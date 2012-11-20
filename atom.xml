@@ -4,7 +4,7 @@
   <title><![CDATA[Leonid Bugaev]]></title>
   <link href="http://leonsbox.com/atom.xml" rel="self"/>
   <link href="http://leonsbox.com/"/>
-  <updated>2012-11-20T15:12:18+04:00</updated>
+  <updated>2012-11-20T15:19:18+04:00</updated>
   <id>http://leonsbox.com/</id>
   <author>
     <name><![CDATA[Leonid Bugaev]]></name>
@@ -40,6 +40,8 @@
 <h3>Lessons learned</h3>
 
 <p>Do not trust such important parts as debugging to external solution, always have plan B.</p>
+
+<p>You can discuss this post at (Hacker News)[http://news.ycombinator.com/item?id=4808539]</p>
 ]]></content>
   </entry>
   

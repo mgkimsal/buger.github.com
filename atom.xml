@@ -4,7 +4,7 @@
   <title><![CDATA[Leonid Bugaev]]></title>
   <link href="http://leonsbox.com/atom.xml" rel="self"/>
   <link href="http://leonsbox.com/"/>
-  <updated>2012-12-01T19:10:11+04:00</updated>
+  <updated>2012-12-01T19:21:07+04:00</updated>
   <id>http://leonsbox.com/</id>
   <author>
     <name><![CDATA[Leonid Bugaev]]></name>
@@ -35,6 +35,8 @@
 <h2>UPDATE</h2>
 
 <p>For sure I don&#8217;t mean that you should write crappy code. I mostly talking about premature-optimizations. Right now there are lot of tools and techniques that allow to control code quality. At least test, code-reviews and code analysers.</p>
+
+<hr />
 
 <p>You can discuss this post at <a href="http://news.ycombinator.com/item?id=4857463">Hacker News</a></p>
 ]]></content>

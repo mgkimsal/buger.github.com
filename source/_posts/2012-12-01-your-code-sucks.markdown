@@ -6,9 +6,6 @@ comments: false
 categories: 
 ---
 
-Your code sucks
-======
-
 I know by myself, **EVERY** time when I get new project, with existing code base, first thought is frustration, and desire to rewrite it the way you feels right. And it works for all programmers without exception. 
 
 But there is one thing I've learned so far: **you need to stifle your inner grumbler**. If you work in team you have to accept that things not always be as you want. Every developer have its own tricks. You have to trust and learn to delegate. 

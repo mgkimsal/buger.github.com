@@ -24,6 +24,8 @@ UPDATE
 ---
 For sure I don't mean that you should write crappy code. I mostly talking about premature-optimizations. Right now there are lot of tools and techniques that allow to control code quality. At least test, code-reviews and code analysers. 
 
+ 
+____
 
 You can discuss this post at [Hacker News](http://news.ycombinator.com/item?id=4857463)
 

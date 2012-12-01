@@ -18,6 +18,10 @@ Lack of documentation and some temporary code is **OK** on early stages, it don'
 
 Remember Twitter story. When it was first started it was super buggy Rails app, that was down all the time. Now check where they now, they looks much more like enterprise, Java everywhere, 1500+ employees. Good project is like a book, you can't skip and start reading from the middle, you need to pass all stages one-by-one. 
 
-Every project have it's own unique history, respect it, do not make hasty decisions, always think about business value.
+Every project have it's own unique history, respect it, do not make hasty decisions, always think about business value.   
+
+
+You can discuss this post at [Hacker News](http://news.ycombinator.com/item?id=4857463)
+
 
 

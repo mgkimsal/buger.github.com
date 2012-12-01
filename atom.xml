@@ -4,7 +4,7 @@
   <title><![CDATA[Leonid Bugaev]]></title>
   <link href="http://leonsbox.com/atom.xml" rel="self"/>
   <link href="http://leonsbox.com/"/>
-  <updated>2012-12-01T15:53:21+04:00</updated>
+  <updated>2012-12-01T15:55:35+04:00</updated>
   <id>http://leonsbox.com/</id>
   <author>
     <name><![CDATA[Leonid Bugaev]]></name>
@@ -18,9 +18,7 @@
     <link href="http://leonsbox.com/blog/2012/12/01/your-code-sucks/"/>
     <updated>2012-12-01T14:26:00+04:00</updated>
     <id>http://leonsbox.com/blog/2012/12/01/your-code-sucks</id>
-    <content type="html"><![CDATA[<h1>Your code sucks</h1>
-
-<p>I know by myself, <strong>EVERY</strong> time when I get new project, with existing code base, first thought is frustration, and desire to rewrite it the way you feels right. And it works for all programmers without exception.</p>
+    <content type="html"><![CDATA[<p>I know by myself, <strong>EVERY</strong> time when I get new project, with existing code base, first thought is frustration, and desire to rewrite it the way you feels right. And it works for all programmers without exception.</p>
 
 <p>But there is one thing I&#8217;ve learned so far: <strong>you need to stifle your inner grumbler</strong>. If you work in team you have to accept that things not always be as you want. Every developer have its own tricks. You have to trust and learn to delegate.</p>
 
